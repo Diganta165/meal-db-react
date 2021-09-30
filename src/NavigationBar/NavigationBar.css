@@ -1,0 +1,9 @@
+.navigation-link{
+    padding-left: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.navigation-link:hover{
+    color: indianred;
+}
